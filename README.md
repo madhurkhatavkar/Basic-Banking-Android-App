@@ -1,4 +1,4 @@
-# Basic-Banking-Application-Android
+# Basic-Banking-Android-App
 
 This app is made to complete Task#2 of Graduate Rotational Intership Program(GRIP) of The Sparks Foundation i.e.Basic Banking System Android App.
 
